@@ -1,4 +1,4 @@
-import '../App.css';
+import './Game.css';
 import { useState, useEffect } from "react";
 import Square from './Square'
 import {Patterns} from "../Patterns"
